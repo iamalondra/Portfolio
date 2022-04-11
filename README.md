@@ -16,4 +16,5 @@ I am a 19 year old, developer in the making from Gilroy CA. I love art and makin
 - https://blog.hubspot.com/website/center-an-image-in-html#:~:text=Step%201%3A%20Wrap%20the%20image,to%20a%20fixed%20length%20value.
 - https://www.w3.org/Style/Examples/007/center.en.html
 - https://coolors.co/e8ebe4-d2d5dd-b8bacf-999ac6-798071
+- https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
 
