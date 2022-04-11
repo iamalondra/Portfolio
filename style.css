@@ -1,14 +1,10 @@
-/* Shark
-#2A2F33
-
-Nomad
- #BBB6A5
-
-Mantle
- #8C9491
-
-Manatee
-#8C8C9C */
+/* 
+the new color hexes
+Shark: #2A2F33
+Nomad: #BBB6A5
+Mantle: #8C9491
+Manatee: #8C8C9C 
+*/
 
 body{
     background-color:#8C8C9C;
@@ -80,6 +76,7 @@ P{
   text-align: center;
 }
 
+/*this is the biggest box*/
 .a-border-box {
         box-sizing: border-box;
         background-color:#8C9491;
@@ -89,6 +86,7 @@ P{
         border:10px solid #BBB6A5;
 }  
 
+/*this is the header box*/
 .b-border-box{
     box-sizing: border-box;
     background-color:#8C9491;
@@ -99,6 +97,7 @@ P{
     padding:20px;  
 }
 
+/*this is the box with the map in it*/
 .c-border-box{
     box-sizing: border-box;
     background-color: #BBB6A5;
@@ -109,6 +108,7 @@ P{
     padding: 20px;   
 }
 
+/*this is the reach out and the Hello box*/
 .d-border-box{
     box-sizing: border-box;
     background-color: #BBB6A5;
@@ -118,7 +118,23 @@ P{
     margin-right: auto;
     padding: 20px;
 }
+/* this is the color of the links */
+a:link {
+    color: #2A2F33;
+}  
 
+/*this is the color of a visited link*/
+a:visited {
+    color: #6320EE;
+}
+/*this is the color of the link when you hover over it*/   
+a:hover {
+    color: #EF8354;
+}
+/*this is the color of an active link*/    
+a:active {
+    color: #6320EE;
+}
 
 footer{
     text-align: center;
