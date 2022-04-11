@@ -17,4 +17,4 @@ I am a 19 year old, developer in the making from Gilroy CA. I love art and makin
 - https://www.w3.org/Style/Examples/007/center.en.html
 - https://coolors.co/e8ebe4-d2d5dd-b8bacf-999ac6-798071
 - https://www.freecodecamp.org/news/how-to-use-html-to-open-link-in-new-tab/
-
+- https://www.tutorialspoint.com/html/html_email_links.htm
