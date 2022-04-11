@@ -1,23 +1,34 @@
+/* Shark
+#2A2F33
+
+Nomad
+ #BBB6A5
+
+Mantle
+ #8C9491
+
+Manatee
+#8C8C9C */
+
 body{
-    background-color:#A7A5C6;
+    background-color:#8C8C9C;
+    color: #2A2F33;
 }
 
 .darker-background{
-    background-color:#DDA15E;
+    background-color:#8C9491;
     border-radius: 100%;
     padding: 35px;
     width: 200px;
     height: 20px;
     margin-left:auto;
     margin-right:auto;
-    border:5px solid #A7A5C6; 
-    
+    border:5px solid #8C8C9C;     
 }
 
- h1{
+h1{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
-    color: #283618;
 }
 
 .center{
@@ -27,25 +38,29 @@ body{
 }
 
 img {
-    border: 10px solid #BC6C25;
+    border: 10px solid #BBB6A5;
     border-radius: 100%;
-  }
+    margin-bottom: 10px;
+}
 
 ul{
     font-family: Arial, Helvetica, sans-serif;
-    color:#283618;
 }
 
 ol{
     font-family: Arial, Helvetica, sans-serif;
-    color: #283618;
+    
 
 }
 
 h2{
     font-family:Arial, Helvetica, sans-serif;
-    color:#283618;
     text-align: center;
+}
+
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+       
 }
 
 iframe{
@@ -54,13 +69,12 @@ iframe{
 
 P{
     font-family: Arial, Helvetica, sans-serif;
-    color: #283618;
 }
 
 .wrapper {
     width: 300px;
     margin: auto;
-  }
+}
 
 .text-centered{
   text-align: center;
@@ -68,41 +82,36 @@ P{
 
 .a-border-box {
         box-sizing: border-box;
-        background-color:#DDA15E;
+        background-color:#8C9491;
         border-radius: 55px;
         padding: 30px;
         width: 800px;
-        height: 1670px;
-        border:10px solid #BC6C25;
-    
-        /* box-shadow: 10px 10px #606C38, 20px 20px #283618; */
+        border:10px solid #BBB6A5;
 }  
 
 .b-border-box{
     box-sizing: border-box;
-    background-color:#DDA15E;
+    background-color:#8C9491;
     border-radius: 25px;
     width: 600px;
-    border: 10px solid #BC6C25;
+    border: 10px solid #BBB6A5;
     margin-bottom: 10px;
-    padding:20px;
-    
+    padding:20px;  
 }
 
 .c-border-box{
     box-sizing: border-box;
-    background-color: #BC6C25;
+    background-color: #BBB6A5;
     border-radius: 25px;
     width: 650px;
     margin-left: auto;
-    margin-right: auto
-
-    
+    margin-right: auto;
+    padding: 20px;   
 }
 
 .d-border-box{
     box-sizing: border-box;
-    background-color: #BC6C25;
+    background-color: #BBB6A5;
     border-radius: 25px;
     width: 650px;
     margin-left: auto;
@@ -113,4 +122,16 @@ P{
 
 footer{
     text-align: center;
+    box-sizing: border-box;
+    background-color: #BBB6A5;
+    border-radius: 25px;
+    border: 10px solid #8C9491;
+    margin-bottom: 10px;
+    padding: 5px; 
+}
+
+hr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 650px;
 }
